@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenCV Library - 3.0.0/OpenCV Library - 3.0.0.iml" filepath="$PROJECT_DIR$/OpenCV Library - 3.0.0/OpenCV Library - 3.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenCV Sample - face-detection/OpenCV Sample - face-detection.iml" filepath="$PROJECT_DIR$/OpenCV Sample - face-detection/OpenCV Sample - face-detection.iml" />
+    </modules>
+  </component>
+</project>
